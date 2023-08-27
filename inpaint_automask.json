@@ -451,7 +451,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "clipspace/clipspace-mask-2518629.600000024.png [input]",
+        "",
         "image"
       ]
     },
@@ -857,7 +857,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ComfyUI_00012_ (2).png",
+        "",
         "image"
       ]
     },
